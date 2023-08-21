@@ -38,7 +38,6 @@ public class BasicCalculator {
                 System.out.println("Error: Invalid operator.");
                 return;
         }
-
         System.out.println("Result: " + result);
     }
 }
