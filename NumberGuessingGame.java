@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Sample {
+public class NumberGuessingGame {
     public static void main(String[] args) {
         Random random = new Random();
         int targetNumber = random.nextInt(100) + 1; // Generate a random number between 1 and 100
